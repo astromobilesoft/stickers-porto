@@ -1,0 +1,30 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.porto",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"luisdiaz1",
+         "name":"Luis Diaz",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"mehditaremi1",
+         "name":"Mehdi Taremi",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"octavio1",
+         "name":"Octavio",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"team2022",
+         "name":"Jogadores 2022",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      }
+   ]
+}
