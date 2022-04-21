@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"tacaportugal2122s2",
+         "name":"vs Sporting",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"ligaportugal2122j30",
          "name":"vs Portimonense",
          "animated_sticker_pack":false,
