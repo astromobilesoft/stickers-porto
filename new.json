@@ -3,14 +3,20 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kit2324c",
+         "name":"Camisola Alternativa 23-24 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
          "identifier":"kit2324a",
          "name":"Camisola 23-24",
          "animated_sticker_pack":false,
          "stickers":"24"
       },
       {
-         "identifier":"kitaway2324a",
-         "name":"Camisola Alternativa 23-24",
+         "identifier":"kit2324b",
+         "name":"Camisola Alternativa 23-24 (1)",
          "animated_sticker_pack":false,
          "stickers":"8"
       },
